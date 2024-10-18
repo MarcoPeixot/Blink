@@ -131,17 +131,17 @@ void loop() {
 
 <div align="center"> 
  <sup>Circuito - Desligado<sup>
-
+ <br>
  <img src="assets/circuito_desligado.png" alt="Simulação"> 
-
+ <br>
  <sup>Fonte: Elaborado pelo autor(2024)<sup> 
 </div>
 
 <div align="center"> 
  <sup>Circuito - Ligado<sup>
-
+ <br>
  <img src="assets/circuito_ligado.png" alt="Simulação"> 
-
+ <br>
  <sup>Fonte: Elaborado pelo autor(2024)<sup> 
 </div>
 
