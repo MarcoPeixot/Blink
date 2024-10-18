@@ -56,7 +56,7 @@ void loop() {
 
 ### Evidências
 
-- **Screenshots:** Capture uma imagem da sua tela mostrando o código na Arduino IDE.
+- **Screenshots:** Imagem do código realizado no Arduino IDE.
 
 <div align="center"> 
  <sup>Código no Arduino IDE<sup>
@@ -64,8 +64,8 @@ void loop() {
  <sup>Fonte: Elaborado pelo autor(2024)<sup> 
 </div>
 
-- **Fotografia:** Tire uma foto do seu Arduino UNO conectado ao computador com o LED aceso.
-- **Vídeo:** Opcionalmente, grave um vídeo mostrando o LED piscando e publique no GitHub.
+- **Fotografia:** Foto do arduino.
+- **Vídeo:** Vídeo do funcionamento do circuito.
 - **Código:** [Código do Arduino](/codigo_blink_interno/codigo_blink_interno.ino).
 
 ## Parte 2: Simulação Blink Externo no TinkerCad
@@ -109,13 +109,17 @@ void loop() {
 - **Screenshot:** Fotos da simulação ligado e desligado realizadas no Tinkercad.
 <div align="center"> 
  <sup>Simulação no Tinkercad - Desligado<sup>
+ <br>
  <img src="assets/simulacao.png" alt="Simulação"> 
  <sup>Fonte: Elaborado pelo autor(2024)<sup> 
+ <br>
 </div>
 
 <div align="center"> 
  <sup>Simulação no Tinkercad - Ligado<sup>
+ <br>
  <img src="assets/simulacao_ligado.png" alt="Simulação"> 
+ <br>
  <sup>Fonte: Elaborado pelo autor(2024)<sup> 
 </div>
 
