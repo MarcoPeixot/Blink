@@ -65,7 +65,24 @@ void loop() {
 </div>
 
 - **Fotografia:** Foto do arduino.
-- **Vídeo:** Vídeo do funcionamento do circuito.
+
+<div align="center"> 
+ <sup>Circuito - Desligado<sup>
+ <br>
+ <img src="assets/circuito_desligado.png" alt="Simulação"> 
+ <br>
+ <sup>Fonte: Elaborado pelo autor(2024)<sup> 
+</div>
+
+<div align="center"> 
+ <sup>Circuito - Ligado<sup>
+ <br>
+ <img src="assets/circuito_ligado.png" alt="Simulação"> 
+ <br>
+ <sup>Fonte: Elaborado pelo autor(2024)<sup> 
+</div>
+
+
 - **Código:** [Código do Arduino](/codigo_blink_interno/codigo_blink_interno.ino).
 
 ## Parte 2: Simulação Blink Externo no TinkerCad
@@ -130,17 +147,17 @@ void loop() {
 &nbsp;&nbsp;&nbsp;&nbsp;Nesta etapa, é realizado a atividade de piscar o led utilizando o arduino uno. Abaixo encontra-se a atividade realizada:
 
 <div align="center"> 
- <sup>Circuito - Desligado<sup>
+ <sup>Blink - Desligado<sup>
  <br>
- <img src="assets/circuito_desligado.png" alt="Simulação"> 
+ <img src="assets/blink_desligado.jpeg" alt="Simulação"> 
  <br>
  <sup>Fonte: Elaborado pelo autor(2024)<sup> 
 </div>
 
 <div align="center"> 
- <sup>Circuito - Ligado<sup>
+ <sup>Blink - Ligado<sup>
  <br>
- <img src="assets/circuito_ligado.png" alt="Simulação"> 
+ <img src="assets/blink_ligado.jpeg" alt="Simulação"> 
  <br>
  <sup>Fonte: Elaborado pelo autor(2024)<sup> 
 </div>
